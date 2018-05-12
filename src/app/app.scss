@@ -1,5 +1,14 @@
 // http://ionicframework.com/docs/theming/
 
+ion-card.card{
+    text-align: center;
+    position: relative;
+    border-radius: 20px;
+    .ion-card-header{
+        font-size: 25px;
+    }
+}
+
 
 // App Global Sass
 // --------------------------------------------------
